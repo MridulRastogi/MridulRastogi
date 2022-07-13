@@ -4,11 +4,11 @@
   <a href="https://www.linkedin.com/in/mridulrastogi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://leetcode.com/m-rid-ul/">
+    <img src="https://support.leetcode.com/hc/en-us/articles/360011934853-Why-all-my-solutions-in-the-code-editor-suddenly-went-missing-" alt="Leetcode Icon"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.codechef.com/users/mridul_mr">
+    <img src="https://www.codechef.com/START47D/status/HEIGHTS" alt="Codechef Icon"/>
   </a>
 </div>
 
