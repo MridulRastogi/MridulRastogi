@@ -5,10 +5,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/m-rid-ul/">
-    <img src="https://support.leetcode.com/hc/en-us/articles/360011934853-Why-all-my-solutions-in-the-code-editor-suddenly-went-missing-" alt="Leetcode Icon"/>
+    <img src="https://img.shields.io/badge/Profile-Leetcode-yellow" alt="Leetcode Icon"/>
   </a>
   <a href="https://www.codechef.com/users/mridul_mr">
-    <img src="https://www.codechef.com/START47D/status/HEIGHTS" alt="Codechef Icon"/>
+    <img src="https://img.shields.io/badge/Profile-Codechef-Brown" alt="Codechef Icon"/>
+  </a>
+  <a href="https://www.hackerearth.com/@mridul_mr">
+    <img src="https://img.shields.io/badge/Profile-Hackerearth-blue" alt="Hackerearth Icon"/>
   </a>
 </div>
 
