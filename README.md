@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Mridul here 👋
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/mridulrastogi/">
@@ -14,13 +14,11 @@
     <img src="https://img.shields.io/badge/Profile-Hackerearth-blue" alt="Hackerearth Icon"/>
   </a>
 </div>
-
+										
 <div id="header" align="center">
   <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif)" width="100"/>
 </div>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d1e84c8f-9bb7-4b37-87cd-966c5f64ac39" data-share-badge-host="https://www.credly.com">
-</div>
 <!--
 **MridulRastogi/MridulRastogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
