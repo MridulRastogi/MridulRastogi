@@ -15,7 +15,7 @@
 
 - ⚡ Hobbies **Coding Competitions, Swimming**
 
-<br/>
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +31,9 @@
 </p>
 
 <br><br/>
+<hr>
 
+<h3 align="left">Coding Profiles:</h3>
 <p align="left">
   <a href="https://kaggle.com/mridulrastogi" target="blank">
     <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mridulrastogi" height="30" width="40" /></a>
@@ -48,6 +50,7 @@
 </p>
 
 <br/>
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -61,10 +64,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
   </a>
-  
-  
   
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -79,10 +80,8 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>  &nbsp;
   </a>
-   
-  
     
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -94,10 +93,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;
   </a> 
-   
-  
   
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
@@ -117,15 +114,15 @@
 </p>
 
 <br/>
+<hr>
 
-<br>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mridulrastogi&show_icons=true&locale=en&layout=compact" alt="mridulrastogi" />
 </p>
 <br>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mridulrastogi&show_icons=true&locale=en" alt="mridulrastogi" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mridulrastogi&" alt="mridulrastogi" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mridulrastogi&show_icons=true&locale=en" alt="mridulrastogi" />
+  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=mridulrastogi&" alt="mridulrastogi" />
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mridulrastogi&label=Profile%20views&color=0e75b6&style=flat" alt="mridulrastogi" /> </p>
