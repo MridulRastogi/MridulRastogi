@@ -32,3 +32,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d1e84c8f-9bb7-4b37-87cd-966c5f64ac39" data-share-badge-host="https://www.credly.com">
+</div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">
+</script>
