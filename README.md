@@ -21,8 +21,6 @@
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d1e84c8f-9bb7-4b37-87cd-966c5f64ac39" data-share-badge-host="https://www.credly.com">
 </div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">
-</script>
 <!--
 **MridulRastogi/MridulRastogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
