@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **Flutter Development**
 
-- 👨‍💻 All of my projects are available at [www.github.com/MridulRastogi/Projects](www.github.com/MridulRastogi/Projects)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/MridulRastogi/Projects)
 
 - 📫 How to reach me **mridulrastogi100@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KzFfRjcuMmcBIkmbGojZ4cofO4oc_AQW/view?usp=sharing](https://drive.google.com/file/d/1KzFfRjcuMmcBIkmbGojZ4cofO4oc_AQW/view?usp=sharing)
+- 📄 Know about my experiences [CV/Resume](https://drive.google.com/file/d/1KzFfRjcuMmcBIkmbGojZ4cofO4oc_AQW/view?usp=sharing)
 
 - ⚡ Hobbies **Coding Competitions, Swimming**
 
