@@ -1,19 +1,19 @@
 <h1 align="center">Hi, Mridul here 👋</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 📝 Currently a 4th year undergrad at [Graphic Era University](http://geu.ac.in)
+- 📝 Currently a 4th year undergrad at [**Graphic Era University**](http://geu.ac.in)
 
 - 🌱 I am currently learning **Flutter and DSA**
 
 - 🤝 I’m looking for help with **Flutter Development**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/MridulRastogi/Projects)
+- 👨‍💻 All of my projects are available at [**Github/Projects**](https://github.com/MridulRastogi/Projects)
 
 - 📫 How to reach me **mridulrastogi100@gmail.com**
 
-- 📄 Know about my experiences [CV/Resume](https://drive.google.com/file/d/1KzFfRjcuMmcBIkmbGojZ4cofO4oc_AQW/view?usp=sharing)
+- 📄 Know about my experiences [**CV/Resume**](https://drive.google.com/file/d/1KzFfRjcuMmcBIkmbGojZ4cofO4oc_AQW/view?usp=sharing)
 
-- ⚡ Hobbies **Coding Competitions, Swimming**
+- ⚡ Hobbies **Coding Competitions, Cycling**
 
 <hr>
 
@@ -34,6 +34,17 @@
 <hr>
 
 <h3 align="left">Coding Profiles:</h3>
+
+  <a href="https://leetcode.com/m-rid-ul/">
+    <img src="https://img.shields.io/badge/Profile-Leetcode-yellow" alt="Leetcode Icon"/>
+  </a>
+  <a href="https://www.codechef.com/users/mridul_mr">
+    <img src="https://img.shields.io/badge/Profile-Codechef-Brown" alt="Codechef Icon"/>
+  </a>
+  <a href="https://www.hackerearth.com/@mridul_mr">
+    <img src="https://img.shields.io/badge/Profile-Hackerearth-blue" alt="Hackerearth Icon"/>
+  </a>
+
 <p align="left">
   <a href="https://kaggle.com/mridulrastogi" target="blank">
     <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mridulrastogi" height="30" width="40" /></a>
@@ -64,7 +75,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
   </a>
   
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -80,7 +91,7 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>  &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>  &nbsp;&nbsp;&nbsp;
   </a>
     
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -93,7 +104,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
   </a> 
   
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
