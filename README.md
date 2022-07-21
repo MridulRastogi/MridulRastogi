@@ -16,6 +16,12 @@
 - ⚡ Hobbies **Coding Competitions, Cycling**
 
 <hr>
+                                                                                      
+<div align="center">
+  <img align="center" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif)" width="100px"/>
+</div>
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
