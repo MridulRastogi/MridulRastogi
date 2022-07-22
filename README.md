@@ -28,10 +28,10 @@
     <img align="left" alt="Mridul Rastogi | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a> 
   <a href="mailto:mridulrastogi100@gmail.com">
-    <img align="left" alt="Ayush Chandola | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Mridul Rastogi | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>                                                                                                                   
   <a href="https://www.instagram.com/m.rid.ul/">
-    <img align="left" alt="Ayush Chandola | Instagram" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Mridul Rastogi | Instagram" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>  
 </p>
 
@@ -83,18 +83,22 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
   </a>
   
+  <!--
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a> 
+   -->
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
   </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
   </a> 
+  <!--
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
+  </a>
+  -->
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>  &nbsp;&nbsp;&nbsp;
   </a>
@@ -112,20 +116,26 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
   </a> 
   
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+  </a>
+  
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
+  <!--
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+  </a>
+  -->
+   
+  <!--
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
+   -->
   </a> 
 </p>
 
