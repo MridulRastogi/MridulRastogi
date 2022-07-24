@@ -14,10 +14,9 @@
 - 📄 Know about my experiences [**CV/Resume**](https://drive.google.com/file/d/1KzFfRjcuMmcBIkmbGojZ4cofO4oc_AQW/view?usp=sharing)
 
 - ⚡ Hobbies **Coding Competitions, Cycling**
-
-                                                                                      
+                                                                     
 <div align="center">
-  <img align="center" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif)" width="100px"/>
+    <img align="center" src="[https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="400px" height="300px"/>
 </div>
 
 <hr>
