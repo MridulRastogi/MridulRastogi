@@ -142,14 +142,34 @@
 
 <br/>
 <hr>
-
+<!--
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mridulrastogi&show_icons=true&locale=en&layout=compact" alt="mridulrastogi" />
+  <img align="left" style="width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mridulrastogi&show_icons=true&locale=en&layout=compact" alt="mridulrastogi" />
+    &nbsp;
+  <img align="right" style="width: 475px; pointer-events: none; user-select: none;" src="https://leetcard.jacoblin.cool/m-rid-ul?theme=unicorn&font=Tauri" unselectable="on" alt="m-rid-ul"/>
 </p>
 <br>
+<br/>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mridulrastogi&show_icons=true&locale=en" alt="mridulrastogi" />
   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=mridulrastogi&" alt="mridulrastogi" />
 </p>
+-->
+
+<table align="center" style="border-collapse: collapse;">
+<tr>
+<td> 
+<img align="left"  style="width: 100%; height: 100%;" 
+     src="https://github-readme-stats.vercel.app/api/top-langs?username=mridulrastogi&show_icons=true&locale=en&layout=compact" alt="mridulrastogi"/> </td>
+<td> 
+<img align="right" style="width: 100%; height: 100%;" src="https://leetcard.jacoblin.cool/m-rid-ul?theme=unicorn&font=Tauri" unselectable="on" alt="m-rid-ul"/> </td>
+</tr>
+<tr> 
+<td>    
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mridulrastogi&show_icons=true&locale=en" alt="mridulrastogi"/>  </td>
+<td>    <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=mridulrastogi&" alt="mridulrastogi" />  </td>
+</tr>
+</table>
+
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mridulrastogi&label=Profile%20views&color=0e75b6&style=flat" alt="mridulrastogi" /> </p>
