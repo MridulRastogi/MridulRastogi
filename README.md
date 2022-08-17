@@ -162,7 +162,10 @@
 <img align="left"  style="width: 100%; height: 100%;" 
      src="https://github-readme-stats.vercel.app/api/top-langs?username=mridulrastogi&show_icons=true&locale=en&layout=compact" alt="mridulrastogi"/> </td>
 <td> 
-<img align="right" style="width: 100%; height: 100%;" src="https://leetcard.jacoblin.cool/m-rid-ul?theme=unicorn&font=Tauri" unselectable="on" alt="m-rid-ul"/> </td>
+<img align="right" style="width: 100%; height: 100%;" src="https://leetcode.card.workers.dev/m-rid-ul?theme=unicorn&font=&extension=null" unselectable="on" alt="m-rid-ul"/> </td>
+<!--
+    https://leetcard.jacoblin.cool/m-rid-ul?theme=unicorn&font=Tauri
+-->
 </tr>
 <tr> 
 <td>    
