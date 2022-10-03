@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Mridul here 👋</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center"><!--Software Engineer--></h3>
 
 <div align="center">
     <img align="center" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" height="300px"/>
