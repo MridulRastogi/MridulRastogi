@@ -1,3 +1,4 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h1 align="center">Hi, Mridul here 👋</h1>
 <h3 align="center"><!--Software Engineer--></h3>
 
@@ -66,7 +67,11 @@
     <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mridul_mr" height="30" width="40" /></a>
 </p>
 
+<br>
+<!-- LinkedIN Profile Badge -->
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mridulrastogi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mridulrastogi?trk=profile-badge">Mridul Rastogi</a></div>              
 <br/>
+
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
