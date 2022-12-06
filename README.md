@@ -1,4 +1,4 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
 <h1 align="center">Hi, Mridul here 👋</h1>
 <h3 align="center"><!--Software Engineer--></h3>
 
