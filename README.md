@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [**CV/Resume**](https://drive.google.com/file/d/1KzFfRjcuMmcBIkmbGojZ4cofO4oc_AQW/view?usp=sharing)
 
-- ⚡ Hobbies **Coding Competitions, Cycling**
+- ⚡ Hobbies **Coding Competitions, Cycling, Calisthenics**
 
 
 
