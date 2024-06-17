@@ -8,7 +8,7 @@
 
 - 📝 Currently a 4th year undergrad at [**Graphic Era University**](http://geu.ac.in)
 
-- 🌱 I am currently learning **Flutter and DSA**
+- 🌱 I am currently learning **Golang and DSA**
 
 - 🤝 I’m looking for help with **Flutter Development**
 
