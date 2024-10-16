@@ -6,7 +6,7 @@
     <img align="center" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" height="300px"/>
 </div>
 
-- 📝 Currently an Application Developer at [**IBM**]([https://www.ibm.com/in-en](https://www.ibm.com/in-en))
+- 📝 Currently an Application Developer at [**IBM**](https://www.ibm.com/in-en)
 
 - 👨🏻‍💻 I am currently working with Backend Technologies.
 
