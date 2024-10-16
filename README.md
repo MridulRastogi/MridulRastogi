@@ -6,9 +6,11 @@
     <img align="center" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" height="300px"/>
 </div>
 
-- 📝 Currently a 4th year undergrad at [**Graphic Era University**](http://geu.ac.in)
+- 📝 Currently an Application Developer at [**IBM**]([http://geu.ac.in](https://www.ibm.com/in-en)
 
-- 🌱 I am currently learning **Golang and DSA**
+- 👨🏻‍💻 I am currently working with Backend Technologies.
+
+- 🌱 Learning **Golang and DSA**
 
 - 🤝 I’m looking for help with **Flutter Development**
 
